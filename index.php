@@ -13,7 +13,8 @@
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container-fluid">
-        <a class="navbar-brand" href="index.php">PHP CRUD OPERATION</a>
+        <!-- <a class="navbar-brand" href="index.php">PHP CRUD OPERATION</a> -->
+        <a class="navbar-brand" href="index.php">Employee Management Sysyem</a>
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
@@ -34,7 +35,8 @@
         <th>NAME</th>
         <th>EMAIL</th>
         <th>PHONE</th>
-        <th>JOINING DATE</th>
+        <!-- <th>JOINING DATE</th> -->
+        <th>Department</th>
         <th>ACTIONS</th>
       </tr>
     </thead>
