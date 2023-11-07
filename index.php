@@ -34,9 +34,10 @@
         <th>ID</th>
         <th>NAME</th>
         <th>EMAIL</th>
-        <th>PHONE</th>
+        <!-- <th>PHONE</th> -->
+        <th>CONTACTS</th>
         <!-- <th>JOINING DATE</th> -->
-        <th>Department</th>
+        <th>DEPARTMENT</th>
         <th>ACTIONS</th>
       </tr>
     </thead>
